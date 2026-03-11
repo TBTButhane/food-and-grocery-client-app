@@ -7,8 +7,8 @@ String popularProductUrl = "api/v1/products/popular";
 String recommendedProductUrl = "api/v1/products/recommend";
 
 String uploadUrl = "/uploads/";
-String mkey = 'AIzaSyBDSOxW-BR8mXcrqmcMrLVn-l4ebP1X5fU';
-// String mkey2 = 'AIzaSyCbig_O8f7rhHHjfsd8Fj6qlkObH9lTIVI';
+String mkey = '';
+
 
 String cartHistory = "cart-history";
 String cart_list = "cart-list";
